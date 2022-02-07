@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: 2 F.C. § 7 - Failure to yield
+title: 3 F.C. § 7 - Failure to yield
 ---
 
 <ol>

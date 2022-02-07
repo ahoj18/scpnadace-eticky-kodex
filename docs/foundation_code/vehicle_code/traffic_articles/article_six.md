@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: 2 F.C. § 6 - Failure to stop at a stop sign
+title: 3 F.C. § 6 - Failure to stop at a stop sign
 ---
 
 <ol>

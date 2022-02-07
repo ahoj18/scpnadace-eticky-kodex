@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: 2 F.C. § 9 - Obstruction of Traffic
+title: 3 F.C. § 9 - Obstruction of Traffic
 ---
 
 <ol>
