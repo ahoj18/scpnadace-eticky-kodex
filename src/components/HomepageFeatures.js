@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: <>Foundation Code <span class="badge badge--info">New</span></>,
-    img: '/img/FLC.png',
+    img: '/img/flc.png',
     href: '/foundation_code',
     description: (
       <>
