@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: 7 F.C. § 8 - Glitching
+title: 7 F.C. § 8 - Aiding Rulebreakers
 ---
 
 <ol type="1">
