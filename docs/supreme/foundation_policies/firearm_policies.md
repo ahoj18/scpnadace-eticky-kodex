@@ -25,3 +25,9 @@ All policies hereinafter are to be considered supreme and hold precedence over a
     - Combatives may fire upon SCP-662 when the circumstances allow it. Such circumstances include: committing genocide upon FP or attempting to executed any Security Class 4 or above. 
     - Combatives may fire upon SCP-610 when it is deemed hostile. Such situations that would include SCP-610 killing a multitude of personnel or attempting to kill any Security Class 4 or higher.
  2. Any individual who attempts to use SCP-034 on any member of the Foundation may be killed by personnel via means of self-defense. If a user has been killed by a person weidling SCP-034, you are to report it to the nearest combative or on the radio - do not take matters into your own hands.
+
+ ## Article 4 - Punch Tool Regulations
+ 1. Members of the Foundation must not abuse the punch tool under any circumstance.
+   - All Foundation Personnel are to treat the punch tool as a weapon and adhere to all firearm regulations stated in this policy or they will be subject to penalization from the Ethics Committee and Department High Command alike.
+   - The punch tool should be used only in self-defense when no combatives are present.
+   - The punch tool should not be equipped in the presence of any Combatives and SC-4+ Personnel.
