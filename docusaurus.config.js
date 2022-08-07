@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Daxrentha\'s SCPF documentation',
   tagline: 'This site contains all public documentation for Daxrentha\'s SCPF',
   url: 'https://legislation.scpf.io',
-  baseUrl: '/',
+  baseUrl: '/scpnadace.github.io/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
