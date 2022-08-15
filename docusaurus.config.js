@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'legislation.scpf.io',
   tagline: 'This site contains all legislation for Daxrentha\'s SCPF',
-  url: 'https://legislation.scpf.io',
-  baseUrl: '/',
+  url: '',
+  baseUrl: '/scpnadace-eticky-kodex/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
